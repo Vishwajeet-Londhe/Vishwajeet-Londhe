@@ -1,10 +1,10 @@
 ![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
 <h2 align="left">Hello I'm Vishwajeet currently I am pursuing engineering degree at PES modern college of engineering at CS department ,pune</h2>
 
-###
+
 <img align="right" alt="Coding" width="500" src="https://github.com/VishwajeetLondhe/VishwajeetLondhe/assets/126247101/3928c779-ca3a-4e88-a7b6-b243ad12f4e5">
 
-###
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"  />
@@ -27,7 +27,7 @@
    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="200">
 </div>
 
-###
+
 
 <div align="left">
   <a href="https://instagram.com/vishwajeet_0104?igshid=MzNlNGNkZWQ4Mg==" target="_blank">
