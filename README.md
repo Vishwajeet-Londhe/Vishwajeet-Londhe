@@ -48,7 +48,7 @@
   </a>
 </div>
 <a href="https://gitstats.me/okoliechykwuka">
-    <img width="419" height="auto" align="left" alt="Vishwajeet's github stats" 
+    <img width="500" height="auto" align="left" alt="Vishwajeet's github stats" 
     src="https://github-readme-stats.vercel.app/api?username=okoliechykwuka&show_icons=true&theme=dark&count_private=true&include_all_commits=true" />
 </a>
 ###
