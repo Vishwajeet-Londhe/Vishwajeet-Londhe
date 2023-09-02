@@ -27,6 +27,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" height="30" alt="rust logo"  />
    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="80">
 </div>
+<a href="https://gitstats.me/okoliechykwuka">
+    <img width="419" height="auto" align="right" alt="Joykishan's github stats" 
+    src="https://github-readme-stats.vercel.app/api?username=okoliechykwuka&show_icons=true&theme=dark&count_private=true&include_all_commits=true" />
+</a>
 
 ###
 
