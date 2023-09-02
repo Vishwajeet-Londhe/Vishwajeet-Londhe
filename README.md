@@ -25,7 +25,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" height="30" alt="rust logo"  />
-   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="80">
+   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="150">
 </div>
 
 ###
@@ -47,7 +47,5 @@
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
   </a>
 </div>
-<a href="https://gitstats.me/VishwajeetLondhe">
     <img width="500" height="auto" align="left" alt="Vishwajeet's github stats" 
-    ![VishwajeetLondhe's Stats](https://github-readme-stats.vercel.app/api?username=VishwajeetLondhe&theme=highcontrast&show_icons=true&hide_border=false&count_private=true)
-</a>
+    ![VishwajeetLondhe's Stats](https://github-readme-stats.vercel.app/api?username=VishwajeetLondhe&theme=highcontrast&show_icons=true&hide_border=false&count_private=true)</a>
