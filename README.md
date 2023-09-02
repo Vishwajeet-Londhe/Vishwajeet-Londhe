@@ -48,4 +48,4 @@
   </a>
 </div>
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=VishwajeetLondhe&theme=highcontrast&show_icons=true&hide_border=false&count_private=true")</a>
-  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=VishwajeetLondhe&theme=highcontrast&hide_border=false"
+  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=VishwajeetLondhe&theme=highcontrast&hide_border=false")</a>
