@@ -2,7 +2,7 @@
 <h2 align="left">Hello I'm Vishwajeet currently I am pursuing engineering degree at PES modern college of engineering at CS department ,pune</h2>
 
 ###
-<img align="right" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" alt="Coder GIF" width="500" height="370">
+<img align="right" src="https://www.google.com/search?q=coding+animated+gif&oq=codind+animated+&gs_lcrp=EgZjaHJvbWUqCQgBEAAYDRiABDIGCAAQRRg5MgkIARAAGA0YgAQyCQgCEAAYDRiABDIJCAMQABgNGIAEMgkIBBAAGA0YgAQyCQgFEAAYDRiABDIICAYQABgWGB4yCAgHEAAYFhgeMggICBAAGBYYHjIICAkQABgWGB7SAQk5ODE4ajBqMTWoAgCwAgA&sourceid=chrome&ie=UTF-8#vhid=55jyr3BK5duBpM&vssid=l"
 
 
 ###
