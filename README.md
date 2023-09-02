@@ -47,4 +47,4 @@
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
   </a>
 </div>
-    ![Vishwajee's Stats](https://github-readme-stats.vercel.app/api?username=VishwajeetLondhe&theme=highcontrast&show_icons=true&hide_border=false&count_private=true)</a>
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=VishwajeetLondhe&theme=highcontrast&show_icons=true&hide_border=false&count_private=true")</a>
