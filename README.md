@@ -2,6 +2,7 @@
 <h2 align="left">Hello I'm Vishwajeet currently I am pursuing engineering degree at PES modern college of engineering at CS department ,pune</h2>
 
 ###
+<img align="right" alt="Coding" width="400" 
 ![68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966](https://github.com/VishwajeetLondhe/VishwajeetLondhe/assets/126247101/3928c779-ca3a-4e88-a7b6-b243ad12f4e5)
 
 
