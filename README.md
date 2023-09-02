@@ -1,4 +1,4 @@
-[![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
+![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
 <h2 align="left">Hello I'm Vishwajeet currently I am pursuing engineering degree at PES modern college of engineering at CS department ,pune</h2>
 
 ###
