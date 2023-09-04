@@ -31,7 +31,7 @@
 <!--![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white)-->
 
 
-
+### Profiles
 <div align="left">
   <a href="https://instagram.com/vishwajeet_0104?igshid=MzNlNGNkZWQ4Mg==" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="instagram logo"  />
@@ -48,7 +48,9 @@
   <a href="https://twitter.com/Vishwajeet0104?t=CkC5LRPbGmijymFcvW42_g&s=09" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="twitter logo"  />
   </a>
-</div>
+</div
+
+  ### My GitHub Profile
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=VishwajeetLondhe&theme=highcontrast&show_icons=true&hide_border=false&count_private=true")</a>
   <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=VishwajeetLondhe&theme=highcontrast&hide_border=false")</a>
 
