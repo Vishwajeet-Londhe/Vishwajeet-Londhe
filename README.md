@@ -5,7 +5,7 @@
 <img align="right" alt="Coding" width="500" src="https://github.com/VishwajeetLondhe/VishwajeetLondhe/assets/126247101/3928c779-ca3a-4e88-a7b6-b243ad12f4e5">
 
 
-# Languages and Tools
+#Languages and Tools
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"  />
   <img width="24" /> 
@@ -31,7 +31,7 @@
 <!--![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white)-->
 
 
-# Profiles
+#Profiles
 <div align="left">
   <a href="https://instagram.com/vishwajeet_0104?igshid=MzNlNGNkZWQ4Mg==" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="instagram logo"  />
@@ -52,7 +52,7 @@
      <img src="https://img.shields.io/static/v1?message=HackerRank&logo=HackerRank&label=&color=24292E&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="HackerRank logo"  />
   </a>
   
-# My GitHub Profile And Stats
+#My GitHub Profile And Stats
 
 ![Profile Views](https://komarev.com/ghpvc/?username=VishwajeetLondhe)
 
