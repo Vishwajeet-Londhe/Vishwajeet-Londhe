@@ -51,7 +51,7 @@
   
 # My GitHub Profile And Stats
 
-#1170![Profile Views](https://komarev.com/ghpvc/?username=VishwajeetLondhe)
+![Profile Views](https://komarev.com/ghpvc/?username=VishwajeetLondhe)
 
 </a>
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=VishwajeetLondhe&theme=highcontrast&show_icons=true&hide_border=false&count_private=true")</a>
