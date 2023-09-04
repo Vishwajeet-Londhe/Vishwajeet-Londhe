@@ -28,6 +28,8 @@
    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="215">
 </div>
 
+<!--![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white)-->
+
 
 
 <div align="left">
