@@ -48,6 +48,9 @@
   <a href="https://twitter.com/Vishwajeet0104?t=CkC5LRPbGmijymFcvW42_g&s=09" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="twitter logo"  />
   </a>
+  <a href="https://www.hackerrank.com/VishwajeetLondhe" target="_blank">
+     <img src="https://img.shields.io/static/v1?message=HackerRank&logo=HackerRank&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="HackerRank logo"  />
+  </a>
   
 # My GitHub Profile And Stats
 
