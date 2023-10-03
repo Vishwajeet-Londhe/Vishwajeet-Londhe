@@ -1,7 +1,7 @@
 ![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
 # ![](<https://github.com/Akash-Salvi/Akash-Salvi/blob/master/Hello(1).gif>)[Vishwajeet Londhe](https://github.com/VishwajeetLondhe) <img src="https://github.com/VishwajeetLondhe/VishwajeetLondhe/assets/126247101/319dd45d-ce6b-4e0c-ba93-335a045db06f" width="30px" height="30px" />
 
-</a>
+---
 <h1> Hi, I'm Vishwajeet !
   
 <img align="centre" alt="Wave" width="150" src = "https://github.com/VishwajeetLondhe/VishwajeetLondhe/assets/126247101/1df14577-4844-4c68-a612-286e47a5dfdd" width = 70px></h1>
@@ -10,7 +10,7 @@
 - 📊 I am an aspiring learner
 - 🔭 I am exploring BlockChain, App Developent and Web Development
 - 🎨 I like creative designing
-</a>
+---
 
 <img align="right" alt="Coding" width="500" src="https://github.com/VishwajeetLondhe/VishwajeetLondhe/assets/126247101/3928c779-ca3a-4e88-a7b6-b243ad12f4e5">
 
@@ -68,6 +68,6 @@
 
 </a>
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=VishwajeetLondhe&theme=dark&show_icons=true&hide_border=true&count_private=true")</a>
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=VishwajeetLondhe&theme=highcontrast&hide_border=false")</a>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VishwajeetLondhe&theme=highcontrast&show_icons=true&hide_border=true&layout=compact")</a>
+  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=VishwajeetLondhe&theme=highcontrast&hide_border=false")</a>
+  <img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VishwajeetLondhe&theme=highcontrast&show_icons=true&hide_border=true&layout=compact")</a>
 </a>
