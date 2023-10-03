@@ -3,13 +3,13 @@
 
 <h1> Hi, I'm Vishwajeet !
   
-<img align="centre" alt="Wave" width="150" src = "https://github.com/VishwajeetLondhe/VishwajeetLondhe/assets/126247101/1df14577-4844-4c68-a612-286e47a5dfdd" width = 70px> </h1>
+<img align="centre" alt="Wave" width="150" src = "https://github.com/VishwajeetLondhe/VishwajeetLondhe/assets/126247101/1df14577-4844-4c68-a612-286e47a5dfdd" width = 70px> </h1
 - 👩‍💻 I am a Computer Science and Engineering Student
 - ✨ I am a MLSA Ambassador
 - 📊 I am an aspiring learner
 - 🔭 I am exploring BlockChain, App Developent and Web Development
 - 🎨 I like creative designing
-
+>
 
 <img align="right" alt="Coding" width="500" src="https://github.com/VishwajeetLondhe/VishwajeetLondhe/assets/126247101/3928c779-ca3a-4e88-a7b6-b243ad12f4e5">
 
