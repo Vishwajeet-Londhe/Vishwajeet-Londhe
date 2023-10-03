@@ -2,7 +2,7 @@
 # ![](<https://github.com/Akash-Salvi/Akash-Salvi/blob/master/Hello(1).gif>)[Vishwajeet Londhe](https://github.com/VishwajeetLondhe) <img src="https://github.com/VishwajeetLondhe/VishwajeetLondhe/assets/126247101/319dd45d-ce6b-4e0c-ba93-335a045db06f" width="30px" height="30px" />
 
 <h1> Hi, I'm Vishwajeet !
-<img align="centre" alt="Wave" width="150" src = "https://github.com/VishwajeetLondhe/VishwajeetLondhe/assets/126247101/1df14577-4844-4c68-a612-286e47a5dfdd" width = 70px> </h1>
+<img align="left" alt="Wave" width="150" src = "https://github.com/VishwajeetLondhe/VishwajeetLondhe/assets/126247101/1df14577-4844-4c68-a612-286e47a5dfdd" width = 70px> </h1>
 
 
 <img align="right" alt="Coding" width="500" src="https://github.com/VishwajeetLondhe/VishwajeetLondhe/assets/126247101/3928c779-ca3a-4e88-a7b6-b243ad12f4e5">
