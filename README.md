@@ -1,5 +1,5 @@
 ![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
-# ![](<https://github.com/Akash-Salvi/Akash-Salvi/blob/master/Hello(1).gif>)[VISHWAJEET LONDHE](https://github.com/VishwajeetLondhe)
+# ![](<https://github.com/Akash-Salvi/Akash-Salvi/blob/master/Hello(1).gif>)[Vishwajeet Londhe](https://github.com/VishwajeetLondhe) <img src="./img/wave.gif" width="30px" height="30px" />
 <h1> Hi, I'm Vishwajeet !
 
 <img align="centre" alt="Wave" width="150" src = "https://github.com/VishwajeetLondhe/VishwajeetLondhe/assets/126247101/1df14577-4844-4c68-a612-286e47a5dfdd" width = 70px> </h1>
