@@ -53,6 +53,9 @@
   <a href="https://www.linkedin.com/in/vishwajeetlondhe" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
   </a>
+   <a href="https://twitter.com/Vishwajeet0104" target="_blank">
+     <img src="https://img.shields.io/static/v1?message=Twitter&logo=X&label=&color=24292E&logoColor=Black&labelColor=&style=for-the-badge" height="40" alt="Twitter logo"  />
+  </a>
   <a href="https://linktr.ee/vishwajeetlondhe" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=&color=1de9b6&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linktree logo"  />
   </a>
@@ -62,10 +65,7 @@
   <a href="https://www.hackerrank.com/VishwajeetLondhe" target="_blank">
      <img src="https://img.shields.io/static/v1?message=HackerRank&logo=HackerRank&label=&color=24292E&logoColor=green&labelColor=&style=for-the-badge" height="40" alt="HackerRank logo"  />
   </a>
-  <a href="https://twitter.com/Vishwajeet0104" target="_blank">
-     <img src="https://img.shields.io/static/v1?message=Twitter&logo=X&label=&color=24292E&logoColor=Black&labelColor=&style=for-the-badge" height="40" alt="Twitter logo"  />
-  </a>
-
+  
 # My GitHub Profile And Stats
 
 ![Profile Views](https://komarev.com/ghpvc/?username=VishwajeetLondhe)
