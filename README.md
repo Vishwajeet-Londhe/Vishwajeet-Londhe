@@ -44,7 +44,7 @@
 
 # Profiles
 <div align="left">
-  <a href="https://instagram.com/vishwajeet_0104?igshid=MzNlNGNkZWQ4Mg==" target="_blank">
+  <a href="https://instagram.com/vishwajeet_0104" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="instagram logo"  />
   </a>
   <a href="https://discord.gg/mruAjdRcPh" target="_blank">
@@ -62,7 +62,10 @@
   <a href="https://www.hackerrank.com/VishwajeetLondhe" target="_blank">
      <img src="https://img.shields.io/static/v1?message=HackerRank&logo=HackerRank&label=&color=24292E&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="HackerRank logo"  />
   </a>
-  
+  <a href="https://twitter.com/Vishwajeet0104" target="_blank">
+     <img src="https://img.shields.io/static/v1?message=Twitter&logo=X&label=&color=24292E&logoColor=Black&labelColor=&style=for-the-badge" height="40" alt="HackerRank logo"  />
+  </a>
+
 # My GitHub Profile And Stats
 
 ![Profile Views](https://komarev.com/ghpvc/?username=VishwajeetLondhe)
