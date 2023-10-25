@@ -63,7 +63,7 @@
      <img src="https://img.shields.io/static/v1?message=HackerRank&logo=HackerRank&label=&color=24292E&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="HackerRank logo"  />
   </a>
   <a href="https://twitter.com/Vishwajeet0104" target="_blank">
-     <img src="https://img.shields.io/static/v1?message=Twitter&logo=X&label=&color=24292E&logoColor=Black&labelColor=&style=for-the-badge" height="40" alt="HackerRank logo"  />
+     <img src="https://img.shields.io/static/v1?message=X&logo=X&label=&color=24292E&logoColor=Black&labelColor=&style=for-the-badge" height="40" alt="HackerRank logo"  />
   </a>
 
 # My GitHub Profile And Stats
