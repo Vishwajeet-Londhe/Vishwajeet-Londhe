@@ -60,7 +60,7 @@
     <img src="https://img.shields.io/static/v1?message=LeetCode&logo=LeetCode&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="LeetCode logo"  />
   </a>
   <a href="https://www.hackerrank.com/VishwajeetLondhe" target="_blank">
-     <img src="https://img.shields.io/static/v1?message=HackerRank&logo=HackerRank&label=&color=24292E&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="HackerRank logo"  />
+     <img src="https://img.shields.io/static/v1?message=HackerRank&logo=HackerRank&label=&color=24292E&logoColor=green&labelColor=&style=for-the-badge" height="40" alt="HackerRank logo"  />
   </a>
   <a href="https://twitter.com/Vishwajeet0104" target="_blank">
      <img src="https://img.shields.io/static/v1?message=Twitter&logo=X&label=&color=24292E&logoColor=Black&labelColor=&style=for-the-badge" height="40" alt="HackerRank logo"  />
