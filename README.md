@@ -1,3 +1,13 @@
+<h1>
+𝐇𝐢𝐢 𝐭𝐡𝐞𝐫𝐞 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/> <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif" /><br />
+</h1>
+
+## <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=200&color=00F706FF&width=600&lines=async(❤️)=>{+await+Full+Stack+Web+Developer+};int+💻+{+return+Competitive+Programmer+};using+🙇‍♂️+public+class+Indie+Game+Developer{}"/>
+
+<div align="center" width="50">
+<img src="https://github.com/CERTIFIED2003/py-game/blob/master/images/my.gif" alt="Welcome!" width="300"/>
+</div>
+
 ![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
 # ![Hello(1)](https://github.com/VishwajeetLondhe/VishwajeetLondhe/assets/126247101/9c4a5675-77ad-47d0-a18d-c09bdfacaa48)[Vishwajeet Londhe](https://github.com/VishwajeetLondhe) <img src="https://github.com/VishwajeetLondhe/VishwajeetLondhe/assets/126247101/319dd45d-ce6b-4e0c-ba93-335a045db06f" width="30px" height="30px" />
 
