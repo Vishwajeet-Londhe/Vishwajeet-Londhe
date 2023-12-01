@@ -80,12 +80,6 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=VishwajeetLondhe)
 
-</a>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=VishwajeetLondhe&theme=dark&show_icons=true&hide_border=true&count_private=true")</a>
-  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=VishwajeetLondhe&theme=highcontrast&hide_border=false")</a>
-  <img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VishwajeetLondhe&theme=highcontrast&show_icons=true&hide_border=true&layout=compact")</a>
-</a>
-
 ![Streak](https://streak-stats.demolab.com?user=VishwajeetLondhe)
 
 <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=VishwajeetLondhe&hide=contribs,issues&show_icons=true&hide_border=true" alt="Vishwajeet's github stats" /></a>
@@ -101,7 +95,7 @@
 
 <!-- ![Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=VishwajeetLondhe&bg_color=0d1117&color=ffffff&line=00F706FF&point=f9fafa&area=true&hide_border=true) -->
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=abhiinavgupta&bg_color=ffffff&color=000000&line=ff4df3&point=000000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=VishwajeetLondhe&bg_color=ffffff&color=000000&line=ff4df3&point=000000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ![Error](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&duration=100&pause=10&color=00F706FF&center=true&vCenter=true&height=40&lines=Error+404+Not+Found)
 
