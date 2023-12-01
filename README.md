@@ -93,13 +93,13 @@
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/abhiinavgupta/count.svg" />
+  <img src="https://profile-counter.glitch.me/VishwajeetLondhe/count.svg" />
 </p>
 
 <i>Random dev joke for you!</i><br>
 <img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="README Jokes" />
 
-<!-- ![Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=abhiinavgupta&bg_color=0d1117&color=ffffff&line=00F706FF&point=f9fafa&area=true&hide_border=true) -->
+<!-- ![Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=VishwajeetLondhe&bg_color=0d1117&color=ffffff&line=00F706FF&point=f9fafa&area=true&hide_border=true) -->
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=abhiinavgupta&bg_color=ffffff&color=000000&line=ff4df3&point=000000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
