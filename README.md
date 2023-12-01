@@ -86,10 +86,10 @@
   <img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VishwajeetLondhe&theme=highcontrast&show_icons=true&hide_border=true&layout=compact")</a>
 </a>
 
-![Streak](https://streak-stats.demolab.com?user=abhiinavgupta)
+![Streak](https://streak-stats.demolab.com?user=VishwajeetLondhe)
 
-<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=abhiinavgupta&hide=contribs,issues&show_icons=true&hide_border=true" alt="abhinav's github stats" /></a>
-<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=abhiinavgupta&layout=compact&hide_border=true" />
+<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=VishwajeetLondhe&hide=contribs,issues&show_icons=true&hide_border=true" alt="Vishwajeet's github stats" /></a>
+<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=VishwajeetLondhe&layout=compact&hide_border=true" />
 
 <p align="center"> 
   Visitor count<br>
