@@ -63,7 +63,7 @@
   <a href="https://www.linkedin.com/in/vishwajeetlondhe" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
   </a>
-   <a href="https://twitter.com/Vishwajeet0104" target="_blank">
+   <a href="https://twitter.com/Vishwajeet_0104" target="_blank">
      <img src="https://img.shields.io/static/v1?message=Twitter&logo=X&label=&color=24292E&logoColor=Black&labelColor=&style=for-the-badge" height="40" alt="Twitter logo"  />
   </a>
   <a href="https://linktr.ee/vishwajeetlondhe" target="_blank">
