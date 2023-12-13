@@ -2,7 +2,7 @@
 𝐇𝐢𝐢 𝐭𝐡𝐞𝐫𝐞 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/> <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif" /><br />
 </h1>
 
-## <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=200&color=00F706FF&width=600&lines=async(❤️)=>{+await+Full+Stack+Web+Developer+};int+💻+{+return+Competitive+Programmer+};using+🙇‍♂️+public+class+Indie+Game+Developer{}"/>
+## <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=200&color=00F706FF&width=600&lines=async(❤️)=>{+await+Full+Stack+Web+Developer+};int+💻+{+return+Competitive+Programmer+};using+🙇‍♂️+public+class+Indie+Blockchain+Developer{}"/>
 
 <div align="center" width="50">
 <img src="https://github.com/CERTIFIED2003/py-game/blob/master/images/my.gif" alt="Welcome!" width="300"/>
