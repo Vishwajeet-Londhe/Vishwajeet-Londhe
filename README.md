@@ -69,7 +69,7 @@
   <a href="https://linktr.ee/vishwajeetlondhe" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=&color=1de9b6&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linktree logo"  />
   </a>
-  <a href="https://leetcode.com/VishwajeetLondhe" target="_blank">
+  <a href="https://leetcode.com/Vishwajeet_Londhe" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LeetCode&logo=LeetCode&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="LeetCode logo"  />
   </a>
   <a href="https://www.hackerrank.com/VishwajeetLondhe" target="_blank">
