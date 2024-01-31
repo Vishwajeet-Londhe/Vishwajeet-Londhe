@@ -51,14 +51,11 @@
 
 <!--![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white)-->
 
-
+---
 # Let's Connect <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" height="38px">
 <div align="left">
   <a href="https://instagram.com/vishwajeet_0104" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="instagram logo"  />
-  </a>
-  <a href="https://discord.gg/mruAjdRcPh" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="discord logo"  />
   </a>
   <a href="https://www.linkedin.com/in/vishwajeetlondhe" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
@@ -75,7 +72,7 @@
   <a href="https://www.hackerrank.com/VishwajeetLondhe" target="_blank">
      <img src="https://img.shields.io/static/v1?message=HackerRank&logo=HackerRank&label=&color=24292E&logoColor=green&labelColor=&style=for-the-badge" height="40" alt="HackerRank logo"  />
   </a>
-  
+  ---
 # My GitHub Profile And Stats
 
 ![Profile Views](https://komarev.com/ghpvc/?username=VishwajeetLondhe)
