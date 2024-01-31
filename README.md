@@ -73,7 +73,8 @@
      <img src="https://img.shields.io/static/v1?message=HackerRank&logo=HackerRank&label=&color=24292E&logoColor=green&labelColor=&style=for-the-badge" height="40" alt="HackerRank logo"  />
   </a>
   ---
-# My GitHub Profile And Stats
+
+  # My GitHub Profile And Stats
 
 ![Profile Views](https://komarev.com/ghpvc/?username=VishwajeetLondhe)
 
