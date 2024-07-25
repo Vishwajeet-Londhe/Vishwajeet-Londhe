@@ -79,7 +79,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=VishwajeetLondhe)
 
 
-![Streak](https://streak-stats.demolab.com?user=Vishwajeet-Londhe)
+![Streak](https://streak-stats.demolab.com?user=Vishwajeet-Londhe&border_radius=4)
 
 <p align="top-left">
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Vishwajeet-Londhe&hide=contribs,issues&show_icons=true&hide_border=true" alt="Vishwajeet's github stats" />
