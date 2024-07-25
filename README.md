@@ -43,8 +43,6 @@
   <img width="24" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50" alt="c logo"  />
   <img width="24" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" height="55" alt="rust logo"  />
-  <img width="28" />
    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="215">
 </div>
 
@@ -82,8 +80,9 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=vishwajeet-londhe&theme=radical&card_width=350)](https://git.io/streak-stats)
 ![vishwajeet-londhe's Stats](https://github-readme-stats.vercel.app/api?username=vishwajeet-londhe&theme=radical&show_icons=true&hide_border=true&count_private=true)
 
-![vishwajeet-londhe's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vishwajeet-londhe&theme=radical&show_icons=true&align=center&hide_border=false&layout=compact)
-
+<p align="center">
+![vishwajeet-londhe's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vishwajeet-londhe&theme=radical&show_icons=true&hide_border=false&layout=compact)
+</p>
 
 <p align="center"> 
   Visitor count<br>
