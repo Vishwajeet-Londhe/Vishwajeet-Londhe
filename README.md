@@ -78,7 +78,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=VishwajeetLondhe)
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=vishwajeet-londhe&theme=radical&card_width=380)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=vishwajeet-londhe&theme=radical&card_width=370)](https://git.io/streak-stats)
 ![vishwajeet-londhe's Stats](https://github-readme-stats.vercel.app/api?username=vishwajeet-londhe&theme=radical&show_icons=true&hide_border=true&count_private=true)
 
 <div align="center">
