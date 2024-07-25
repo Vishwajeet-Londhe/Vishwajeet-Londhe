@@ -83,7 +83,7 @@
 ![vishwajeet-londhe's Stats](https://github-readme-stats.vercel.app/api?username=vishwajeet-londhe&theme=radical&show_icons=true&hide_border=true&count_private=true)
 
 <p align="center"> 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Vishwajeet-Londhe&layout=compact&hide_border=false" />
+![vishwajeet-londhe's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vishwajeet-londhe&theme=radical&show_icons=true&hide_border=false&layout=compact)
 </p>
 
 <p align="center"> 
