@@ -81,7 +81,7 @@
 
 ![Streak](https://streak-stats.demolab.com?user=Vishwajeet-Londhe)
 
-<p align="top-right">
+<p align="top-left">
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Vishwajeet-Londhe&hide=contribs,issues&show_icons=true&hide_border=true" alt="Vishwajeet's github stats" />
 </p>
 
