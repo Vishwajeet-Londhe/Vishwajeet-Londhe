@@ -74,7 +74,7 @@
  
   ---
 
-  # My GitHub Profile And Stats
+  # My GitHub Views And Stats
 
 ![Profile Views](https://komarev.com/ghpvc/?username=VishwajeetLondhe)
 
