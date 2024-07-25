@@ -77,10 +77,11 @@
   # My GitHub Views and Stats
 
 ![Profile Views](https://komarev.com/ghpvc/?username=VishwajeetLondhe)
+
 ![Streak](https://streak-stats.demolab.com?user=Vishwajeet-Londhe&layout=compact)
 
 
-<img align="right" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Vishwajeet-Londhe&hide=contribs,issues&show_icons=true&layout=compact&hide_border=false" alt="Vishwajeet's github stats" />
+![vishwajeet-londhe's Stats](https://github-readme-stats.vercel.app/api?username=vishwajeet-londhe&theme=default&show_icons=true&hide_border=false&count_private=true)
 
 <p align="left"> 
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Vishwajeet-Londhe&layout=compact&hide_border=false" />
