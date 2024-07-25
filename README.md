@@ -82,7 +82,7 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=vishwajeet-londhe&theme=radical&card_width=350)](https://git.io/streak-stats)
 ![vishwajeet-londhe's Stats](https://github-readme-stats.vercel.app/api?username=vishwajeet-londhe&theme=radical&show_icons=true&hide_border=true&count_private=true)
 
-![vishwajeet-londhe's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vishwajeet-londhe&theme=radical&show_icons=true&align="center"&hide_border=false&layout=compact)
+![vishwajeet-londhe's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vishwajeet-londhe&theme=radical&show_icons=true&align=center&hide_border=false&layout=compact)
 
 
 <p align="center"> 
