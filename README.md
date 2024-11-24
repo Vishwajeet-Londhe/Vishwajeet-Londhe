@@ -12,7 +12,7 @@
 
 
 ---
-<h1> Hi, I'm Vishwajeet ! <img src="./about.gif" height="48px">
+<h1> Hi, I'm Vishwajeet ! <img src="./about.gif" height="48px"> </h1>
   
 - 👩‍💻 I am a Computer Science and Engineering Student
 - ✨ I am Beta MLSA Ambassador
