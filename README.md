@@ -92,9 +92,6 @@
   <img src="https://profile-counter.glitch.me/Vishwajeet-Londhe/count.svg" />
 </p>
 
-<i>Random dev joke for you!</i><br>
-<img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="README Jokes" />
-
 <!-- ![Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Vishwajeet-Londhe&bg_color=0d1117&color=ffffff&line=00F706FF&point=f9fafa&area=true&hide_border=true) -->
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Vishwajeet-Londhe&bg_color=ffffff&color=000000&line=ff4df3&point=000000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
