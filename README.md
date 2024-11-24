@@ -81,10 +81,10 @@
 <img src="https://github-profile-trophy.vercel.app/?username=Vishwajeet-Londhe&row=1&column=9">
 
 ## My GitHub Stats
+[![GitHub Streak](https://streak-stats.demolab.com?user=vishwajeet-londhe&theme=radical&card_width=370)](https://git.io/streak-stats)
+![vishwajeet-londhe's Stats](https://github-readme-stats.vercel.app/api?username=vishwajeet-londhe&theme=radical&show_icons=true&hide_border=true&count_private=true)
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vishwajeet-Londhe&theme=rose_pine" width="90%" alt="stats graph"/>
- <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Vishwajeet-Londhe&theme=rose_pine" width="45%" alt="stats graph"/> 
- <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Vishwajeet-Londhe&theme=rose_pine" width="45%" alt="stats graph"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishwajeet-londhe&theme=radical&show_icons=true&hide_border=false&layout=compact" alt="vishwajeet-londhe's Top Languages" />
 </div>
 
 <p align="center"> 
