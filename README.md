@@ -78,13 +78,13 @@
 
 ## My achievements
 
-<img src="https://github-profile-trophy.vercel.app/?username=AbhijithGanesh&row=1&column=9">
+<img src="https://github-profile-trophy.vercel.app/?username=Vishwajeet-Londhe&row=1&column=9">
 
 ## My GitHub Stats
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbhijithGanesh&theme=rose_pine" width="90%" alt="stats graph"/>
- <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AbhijithGanesh&theme=rose_pine" width="45%" alt="stats graph"/> 
- <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AbhijithGanesh&theme=rose_pine" width="45%" alt="stats graph"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vishwajeet-Londhe&theme=rose_pine" width="90%" alt="stats graph"/>
+ <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Vishwajeet-Londhe&theme=rose_pine" width="45%" alt="stats graph"/> 
+ <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Vishwajeet-Londhe&theme=rose_pine" width="45%" alt="stats graph"/>
 </div>
 
 <p align="center"> 
