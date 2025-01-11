@@ -6,9 +6,6 @@
 
 <div align="center" width="50"> <img src="https://github.com/PandaPatch/img/blob/main/github.gif" alt="Welcome!" width="300"/>
 </div>
-
-![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
-<div align="center"> 
   
 <!--   <h2>🐍 Contributions 🐍</h2>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
