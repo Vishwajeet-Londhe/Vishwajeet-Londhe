@@ -10,10 +10,10 @@
 <table>
   <tr>
     <td>
-      <img src="https://github.com/PandaPatch/img/blob/main/github.gif" alt="Welcome!" width="400" height="400"/>
+      <img src="https://github.com/PandaPatch/img/blob/main/github.gif" alt="Welcome!" width="450" height="400"/>
     </td>
     <td>
-      <h2>Leetcode Info</h2>
+      <h2 align="center">Leetcode Info</h2>
       <p>
         <a href="https://leetcode.com/vishwajeet_0104/" target="_blank">
           <img src="https://leetcode.com/static/images/badges/2024/gif/2024-02.gif" height="100"/>
@@ -64,7 +64,7 @@
   <img width="24" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50" alt="c logo"  />
   <img width="24" />
-   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="215">
+   
 </div>
 <!--![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white)-->
 
