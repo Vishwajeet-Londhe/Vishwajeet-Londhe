@@ -3,26 +3,38 @@
 </h1>
 
 ## <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=200&color=00F706FF&width=600&lines=async(❤️)=>{Full+Stack+Web+Developer+};int+💻+{+return+Competitive+Programmer+};using+🙇‍♂️+public+class+Indie+Blockchain+Developer{}"/>
-
-<div width="50"> <img src="https://github.com/PandaPatch/img/blob/main/github.gif" alt="Welcome!" width="300" align="right"/>
-
-
-# ![Hello(1)](https://github.com/VishwajeetLondhe/VishwajeetLondhe/assets/126247101/9c4a5675-77ad-47d0-a18d-c09bdfacaa48)[Vishwajeet Londhe](https://github.com/VishwajeetLondhe) <img src="https://github.com/VishwajeetLondhe/VishwajeetLondhe/assets/126247101/319dd45d-ce6b-4e0c-ba93-335a045db06f" width="30px" height="30px" align="top" />
-
-</div>
-
-<h2 align="center">Leetcode Info<h2>  
-<p align="center">
-  <a href="https://leetcode.com/vishwajeet_0104/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-02.gif" alt="jyot" height="100" width="100" /></a>
-  <a href="https://leetcode.com/vishwajeet_0104/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-03.gif" alt="jyot" height="100" width="100" /></a>
-  <a href="https://leetcode.com/vishwajeet_0104/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" alt="jyot" height="100" width="100" /></a>
-  <a href="https://leetcode.com/vishwajeet_0104/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" alt="jyot" height="100" width="100" /></a>
-</p>
-<p align="center">
+<div>
   
-  <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/vishwajeet_0104?theme=dark&font=Nunito&ext=heatmap" />  
-</p>
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/PandaPatch/img/blob/main/github.gif" alt="Welcome!" width="400" height="400"/>
+    </td>
+    <td>
+      <h2>Leetcode Info</h2>
+      <p>
+        <a href="https://leetcode.com/its-nishant320/" target="_blank">
+          <img src="https://leetcode.com/static/images/badges/2024/gif/2024-02.gif" height="100"/>
+        </a>
+        <a href="https://leetcode.com/its-nishant320/" target="_blank">
+          <img src="https://leetcode.com/static/images/badges/2024/gif/2024-03.gif" height="100"/>
+        </a>
+        <a href="https://leetcode.com/its-nishant320/" target="_blank">
+          <img src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" height="100"/>
+        </a>
+      </p>
+      <p>
+        <img src="https://leetcard.jacoblin.cool/its-nishant320?theme=dark&font=Nunito&ext=heatmap" width="400"/>
+      </p>
+    </td>
+  </tr>
+</table>
 
+
+![Hello(1)](https://github.com/VishwajeetLondhe/VishwajeetLondhe/assets/126247101/9c4a5675-77ad-47d0-a18d-c09bdfacaa48)
+[Vishwajeet Londhe](https://github.com/VishwajeetLondhe)  
+<img src="https://github.com/VishwajeetLondhe/VishwajeetLondhe/assets/126247101/319dd45d-ce6b-4e0c-ba93-335a045db06f" width="30px" height="30px" />
+ 
 ---
 <h1> Hi, I'm Vishwajeet ! <img src="./about.gif" height="48px"> </h1>
   
