@@ -7,7 +7,7 @@
 <div align="left" width="50"> <img src="https://github.com/PandaPatch/img/blob/main/github.gif" alt="Welcome!" width="300"/>
 
 
-# ![Hello(1)](https://github.com/VishwajeetLondhe/VishwajeetLondhe/assets/126247101/9c4a5675-77ad-47d0-a18d-c09bdfacaa48)[Vishwajeet Londhe](https://github.com/VishwajeetLondhe) <img src="https://github.com/VishwajeetLondhe/VishwajeetLondhe/assets/126247101/319dd45d-ce6b-4e0c-ba93-335a045db06f" width="30px" height="30px" />
+# ![Hello(1)](https://github.com/VishwajeetLondhe/VishwajeetLondhe/assets/126247101/9c4a5675-77ad-47d0-a18d-c09bdfacaa48)[Vishwajeet Londhe](https://github.com/VishwajeetLondhe) <img src="https://github.com/VishwajeetLondhe/VishwajeetLondhe/assets/126247101/319dd45d-ce6b-4e0c-ba93-335a045db06f" width="30px" height="30px" align="right" />
 
 </div>
 
