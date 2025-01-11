@@ -13,18 +13,18 @@
     <td>
       <h2>Leetcode Info</h2>
       <p>
-        <a href="https://leetcode.com/its-nishant320/" target="_blank">
+        <a href="https://leetcode.com/vishwajeet_0104/" target="_blank">
           <img src="https://leetcode.com/static/images/badges/2024/gif/2024-02.gif" height="100"/>
         </a>
-        <a href="https://leetcode.com/its-nishant320/" target="_blank">
+        <a href="https://leetcode.com/vishwajeet_0104/" target="_blank">
           <img src="https://leetcode.com/static/images/badges/2024/gif/2024-03.gif" height="100"/>
         </a>
-        <a href="https://leetcode.com/its-nishant320/" target="_blank">
+        <a href="https://leetcode.com/vishwajeet_0104/" target="_blank">
           <img src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" height="100"/>
         </a>
       </p>
       <p>
-        <img src="https://leetcard.jacoblin.cool/its-nishant320?theme=dark&font=Nunito&ext=heatmap" width="400"/>
+        <img src="https://leetcard.jacoblin.cool/vishwajeet_0104?theme=dark&font=Nunito&ext=heatmap" width="400"/>
       </p>
     </td>
   </tr>
