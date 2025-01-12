@@ -64,21 +64,20 @@
   <img width="24" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50" alt="c logo"  />
   <img width="24" />
-   
 </div>
-<!--![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white)-->
-
-
-  # My GitHub Views and Stats
-
-![Profile Views](https://komarev.com/ghpvc/?username=VishwajeetLondhe)
 
 
 ## My achievements
 
 <img src="https://github-profile-trophy.vercel.app/?username=Vishwajeet-Londhe&row=1&column=9">
+</div>
+  # My GitHub Views and Stats
 
-## My GitHub Stats
+
+## My GitHub Stats and Profile Views
+
+![Profile Views](https://komarev.com/ghpvc/?username=VishwajeetLondhe)
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=vishwajeet-londhe&theme=radical&card_width=370)](https://git.io/streak-stats)
 ![vishwajeet-londhe's Stats](https://github-readme-stats.vercel.app/api?username=vishwajeet-londhe&theme=radical&show_icons=true&hide_border=true&count_private=true)
 <div align="center">
