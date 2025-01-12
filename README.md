@@ -66,13 +66,13 @@
   <img width="24" />
 </div>
 
-## My achievements
+# My achievements
 
 <img src="https://github-profile-trophy.vercel.app/?username=Vishwajeet-Londhe&row=1&column=9">
 </div>
 
 
-## My GitHub Stats and Views
+# My GitHub Stats and Views
 
 ![Profile Views](https://komarev.com/ghpvc/?username=VishwajeetLondhe)
 
