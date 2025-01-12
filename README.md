@@ -10,23 +10,23 @@
 <table>
   <tr>
     <td>
-      <img src="https://github.com/PandaPatch/img/blob/main/github.gif" alt="Welcome!" width="350" height="350"/>
+      <img src="https://github.com/PandaPatch/img/blob/main/github.gif" alt="Welcome!" width="300" height="350"/>
     </td>
     <td>
       <h2 align="center">Leetcode Info</h2>
       <p>
         <a href="https://leetcode.com/vishwajeet_0104/" target="_blank">
-          <img src="https://leetcode.com/static/images/badges/2024/gif/2024-02.gif" height="100"/>
+          <img src="https://leetcode.com/static/images/badges/2024/gif/2024-02.gif" height="80"/>
         </a>
         <a href="https://leetcode.com/vishwajeet_0104/" target="_blank">
-          <img src="https://leetcode.com/static/images/badges/2024/gif/2024-03.gif" height="100"/>
+          <img src="https://leetcode.com/static/images/badges/2024/gif/2024-03.gif" height="80"/>
         </a>
         <a href="https://leetcode.com/vishwajeet_0104/" target="_blank">
-          <img src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" height="100"/>
+          <img src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" height="80"/>
         </a>
       </p>
       <p>
-        <img src="https://leetcard.jacoblin.cool/vishwajeet_0104?theme=dark&font=Nunito&ext=heatmap" width="400"/>
+        <img src="https://leetcard.jacoblin.cool/vishwajeet_0104?theme=dark&font=Nunito&ext=heatmap" width="450"/>
       </p>
     </td>
   </tr>
@@ -117,6 +117,6 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Vishwajeet-Londhe&bg_color=ffffff&color=000000&line=ff4df3&point=000000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-![Error](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&duration=100&pause=10&color=00F706FF&center=true&vCenter=true&height=40&lines=Error+404+Not+Found)
+![Error](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&duration=80&pause=10&color=00F706FF&center=true&vCenter=true&height=40&lines=Error+404+Not+Found)
 
 </div>
