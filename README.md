@@ -10,7 +10,7 @@
 <table>
   <tr>
     <td>
-      <img src="https://github.com/PandaPatch/img/blob/main/github.gif" alt="Welcome!" width="450" height="400"/>
+      <img src="https://github.com/PandaPatch/img/blob/main/github.gif" alt="Welcome!" width="200" height="200"/>
     </td>
     <td>
       <h2 align="center">Leetcode Info</h2>
