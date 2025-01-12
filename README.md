@@ -71,10 +71,9 @@
 
 <img src="https://github-profile-trophy.vercel.app/?username=Vishwajeet-Londhe&row=1&column=9">
 </div>
-  # My GitHub Views and Stats
 
 
-## My GitHub Stats and Profile Views
+## My GitHub Stats and Views
 
 ![Profile Views](https://komarev.com/ghpvc/?username=VishwajeetLondhe)
 
