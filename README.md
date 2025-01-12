@@ -43,7 +43,7 @@
 - 🎨 I like creative designing
 ---
 
-<img align="right" alt="Coding" width="500" src="https://github.com/VishwajeetLondhe/VishwajeetLondhe/assets/126247101/3928c779-ca3a-4e88-a7b6-b243ad12f4e5">
+<img align="right" alt="Coding" width="400" src="https://github.com/VishwajeetLondhe/VishwajeetLondhe/assets/126247101/3928c779-ca3a-4e88-a7b6-b243ad12f4e5">
 <br/>
 
 # Languages and Tools
@@ -65,7 +65,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50" alt="c logo"  />
   <img width="24" />
 </div>
-
 
 ## My achievements
 
