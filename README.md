@@ -14,7 +14,7 @@
     </td>
     <td>
       <h2 align="center">Leetcode Info</h2>
-      <p>
+      <p align= "center">
         <a href="https://leetcode.com/vishwajeet_0104/" target="_blank">
           <img src="https://leetcode.com/static/images/badges/2024/gif/2024-02.gif" align="center" height="100"/>
         </a>
