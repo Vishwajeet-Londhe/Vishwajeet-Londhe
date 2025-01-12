@@ -10,23 +10,23 @@
 <table>
   <tr>
     <td>
-      <img src="https://github.com/PandaPatch/img/blob/main/github.gif" alt="Welcome!" width="300" height="350"/>
+      <img src="https://github.com/PandaPatch/img/blob/main/github.gif" alt="Welcome!" width="330" height="350"/>
     </td>
     <td>
       <h2 align="center">Leetcode Info</h2>
       <p>
         <a href="https://leetcode.com/vishwajeet_0104/" target="_blank">
-          <img src="https://leetcode.com/static/images/badges/2024/gif/2024-02.gif" height="80"/>
+          <img src="https://leetcode.com/static/images/badges/2024/gif/2024-02.gif" align="center" height="100"/>
         </a>
         <a href="https://leetcode.com/vishwajeet_0104/" target="_blank">
-          <img src="https://leetcode.com/static/images/badges/2024/gif/2024-03.gif" height="80"/>
+          <img src="https://leetcode.com/static/images/badges/2024/gif/2024-03.gif" align="center" height="100"/>
         </a>
         <a href="https://leetcode.com/vishwajeet_0104/" target="_blank">
-          <img src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" height="80"/>
+          <img src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" align="center" height="100"/>
         </a>
       </p>
       <p>
-        <img src="https://leetcard.jacoblin.cool/vishwajeet_0104?theme=dark&font=Nunito&ext=heatmap" width="450"/>
+        <img src="https://leetcard.jacoblin.cool/vishwajeet_0104?theme=dark&font=Nunito&ext=heatmap" width="430"/>
       </p>
     </td>
   </tr>
