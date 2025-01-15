@@ -63,10 +63,10 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=VishwajeetLondhe)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=vishwajeet-londhe&theme=radical&card_width=370)](https://git.io/streak-stats)
-![vishwajeet-londhe's Stats](https://github-readme-stats.vercel.app/api?username=vishwajeet-londhe&theme=radical&show_icons=true&hide_border=true&count_private=true)
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishwajeet-londhe&theme=radical&show_icons=true&hide_border=false&layout=compact" alt="vishwajeet-londhe's Top Languages" />
+<div align=center>
+  <img width=410 height="165" src="https://streak-stats.demolab.com/?user=Vishwajeet-Londhe&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=Vishwajeet-Londhe&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishwajeet-Londhe&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
 <p align="center"> 
