@@ -32,7 +32,6 @@
   </tr>
 </table>
 
- 
 ---
 <h1> Hi, I'm Vishwajeet ! <img src="./about.gif" height="48px"> </h1>
   
