@@ -35,10 +35,10 @@
 ---
 <h1> Hi, I'm Vishwajeet ! <img src="./about.gif" height="48px"> </h1>
   
-- 👩‍💻 I am a Computer Science and Engineering Student
+- 👩‍💻 I am Computer Science Engineer
 - ✨ I am Beta MLSA Ambassador
 - 📊 I am an aspiring learner
-- 🔭 I am exploring BlockChain, App Developent and Web Development
+- 🔭 I am exploring Web Development And AIML 
 - 🎨 I like creative designing
 ---
 
