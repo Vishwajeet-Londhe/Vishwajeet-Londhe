@@ -37,9 +37,9 @@
   
 - 👩‍💻 I am Computer Science Engineer
 - ✨ I am Beta MLSA Ambassador
-- 📊 I am an aspiring learner
-- 🔭 I am exploring Web Development And AIML 
-- 🎨 I like creative designing
+- 📊 I Contributed to open Source programs.
+- 🔭 I am exploring Web Development,Artificial Intelligence and Machine Learning 
+- 🎨 I like creative designin
 ---
 
 <img align="right" alt="Coding" width="400" src="https://github.com/VishwajeetLondhe/VishwajeetLondhe/assets/126247101/3928c779-ca3a-4e88-a7b6-b243ad12f4e5">
