@@ -7,30 +7,26 @@
 ## <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=200&color=00F706FF&width=600&lines=async(❤️)=>{Full+Stack+Web+Developer+};int+💻+{+return+Competitive+Programmer+};using+🙇‍♂️+public+class+Indie+Blockchain+Developer{}"/>
 <div>
   
-<table>
-  <tr>
-    <td>
-      <img src="https://github.com/PandaPatch/img/blob/main/github.gif" alt="Welcome!" width="330" height="350"/>
-    </td>
-    <td>
-      <h2 align="center">Leetcode Info</h2>
-      <p align= "center">
-        <a href="https://leetcode.com/vishwajeet_0104/" target="_blank">
+<a href="https://leetcode.com/u/vishwajeet_0104/" target="_blank">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github.com/PandaPatch/img/blob/main/github.gif" alt="Welcome!" width="330" height="350"/>
+      </td>
+      <td>
+        <h2 align="center">Leetcode Info</h2>
+        <p align="center">
           <img src="https://leetcode.com/static/images/badges/2024/gif/2024-02.gif" align="center" height="100"/>
-        </a>
-        <a href="https://leetcode.com/vishwajeet_0104/" target="_blank">
           <img src="https://leetcode.com/static/images/badges/2024/gif/2024-03.gif" align="center" height="100"/>
-        </a>
-        <a href="https://leetcode.com/vishwajeet_0104/" target="_blank">
           <img src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" align="center" height="100"/>
-        </a>
-      </p>
-      <p>
-        <img src="https://leetcard.jacoblin.cool/vishwajeet_0104?theme=dark&font=Nunito&ext=heatmap" width="430"/>
-      </p>
-    </td>
-  </tr>
-</table>
+        </p>
+        <p>
+          <img src="https://leetcard.jacoblin.cool/vishwajeet_0104?theme=dark&font=Nunito&ext=heatmap" width="430"/>
+        </p>
+      </td>
+    </tr>
+  </table>
+</a>
 
 ---
 <h1> Hi, I'm Vishwajeet ! <img src="./about.gif" height="48px"> </h1>
