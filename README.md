@@ -16,9 +16,9 @@
       <td>
         <h2 align="center">Leetcode Info</h2>
         <p align="center">
-          <img src="https://leetcode.com/static/images/badges/2024/gif/2024-02.gif" align="center" height="100"/>
-          <img src="https://leetcode.com/static/images/badges/2024/gif/2024-03.gif" align="center" height="100"/>
-          <img src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" align="center" height="100"/>
+          <img src="https://leetcode.com/static/images/badges/2024/gif/2024-02.gif" align="center" height="75"/>
+          <img src="https://leetcode.com/static/images/badges/2024/gif/2024-03.gif" align="center" height="75"/>
+          <img src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" align="center" height="75"/>
         </p>
         <p>
           <img src="https://leetcard.jacoblin.cool/vishwajeet_0104?theme=dark&font=Nunito&ext=heatmap" width="430"/>
