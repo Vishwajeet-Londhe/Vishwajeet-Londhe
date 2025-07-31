@@ -4,6 +4,8 @@
 # ![Hello(1)](https://github.com/VishwajeetLondhe/VishwajeetLondhe/assets/126247101/9c4a5675-77ad-47d0-a18d-c09bdfacaa48)[Vishwajeet Londhe](https://github.com/VishwajeetLondhe)<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="160" align="right"/> <img src="https://github.com/VishwajeetLondhe/VishwajeetLondhe/assets/126247101/319dd45d-ce6b-4e0c-ba93-335a045db06f" width="30px" height="30px"/>
 </h1>
 
+![Profile Views](https://komarev.com/ghpvc/?username=VishwajeetLondhe)
+
 <div>
   
 <a href="https://leetcode.com/u/vishwajeet_0104/" target="_blank">
@@ -53,8 +55,6 @@
 
 
 # My GitHub Stats and Views
-
-![Profile Views](https://komarev.com/ghpvc/?username=VishwajeetLondhe)
 
 <div align=center>
   <img width=410 height="165" src="https://streak-stats.demolab.com/?user=Vishwajeet-Londhe&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
