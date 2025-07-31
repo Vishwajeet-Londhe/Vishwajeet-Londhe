@@ -30,7 +30,7 @@
 </a>
 
 ---
-<h1> Hi, I'm Vishwajeet ! <img src="./about.gif" height="48px"> </h1>
+<h1> About Me ! <img src="./about.gif" height="48px"> </h1>
   
 - 🚀 Aspiring Computer Science Engineer
 - ✨ Beta Microsoft Learn Student Ambassador
