@@ -50,7 +50,7 @@
 
 # My achievements
 
-<img src="https://github-profile-trophy.vercel.app/?username=Vishwajeet-Londhe&row=2&column=4">
+<img src="https://github-profile-trophy.vercel.app/?username=Vishwajeet-Londhe&row=2&column=7">
 </div>
 
 
