@@ -32,11 +32,11 @@
 ---
 <h1> About Me <img src="./about.gif" height="48px"> </h1>
   
-- 🚀 Aspiring Computer Science Engineer
-- ✨ Beta Microsoft Learn Student Ambassador
-- 🎁 Open Source Contributor
-- 💡 Exploring Web Development, AI, and Machine Learning
-- 📚 Lifelong learner, tech enthusiast, and community builder
+- 🎓 Computer Science Student at PES MCOE (Sep 2022 – June 2026), along with pursuing Honors in AI-ML
+- 🌟 Beta Microsoft Learn Student Ambassador – empowering peers through tech sessions and mentorship
+- 🛠️ Open Source Contributor – actively participated in GSSoC, Hacktoberfest, and contributed to impactful GitHub projects
+- 💡 Passionate about Web Development, AI and Machine Learning
+- 📚 Lifelong Learner, Tech Enthusiast, and Community Builder – dedicated to building inclusive and knowledge-driven communities
 ---
 
 <img align="right" alt="Coding" width="400" src="https://github.com/VishwajeetLondhe/VishwajeetLondhe/assets/126247101/3928c779-ca3a-4e88-a7b6-b243ad12f4e5">
