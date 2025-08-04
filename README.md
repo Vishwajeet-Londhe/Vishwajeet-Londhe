@@ -12,7 +12,7 @@
   <table>
     <tr>
       <td>
-        <img src="https://github.com/PandaPatch/img/blob/main/github.gif" alt="Welcome!" width="330" height="350"/>
+        <img src="https://github.com/PandaPatch/img/blob/main/github.gif" alt="Welcome!" width="350" height="370"/>
       </td>
       <td>
         <h2 align="center">Leetcode Info</h2>
@@ -22,7 +22,7 @@
           <img src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" align="center" height="75"/>
         </p>
         <p>
-          <img src="https://leetcard.jacoblin.cool/vishwajeet_0104?theme=dark&font=Nunito&ext=heatmap" width="430"/>
+          <img src="https://leetcard.jacoblin.cool/vishwajeet_0104?theme=dark&font=Nunito&ext=heatmap" width="350"  height="200"/>
         </p>
       </td>
     </tr>
