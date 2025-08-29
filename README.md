@@ -53,7 +53,6 @@
 <img src="https://github-profile-trophy.vercel.app/?username=Vishwajeet-Londhe&row=2&column=7">
 </div>
 
-
 # My GitHub Stats and Views
 
 <div align=center>
