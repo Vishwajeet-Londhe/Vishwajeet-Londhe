@@ -37,45 +37,72 @@
 - 🛠️ **Open Source Contributor** – actively participated in GSSoC, Hacktoberfest, and contributed to other projects  
 - 💡 **Passionate about** Web Development, AI and Machine Learning  
 - 📚 **Lifelong Learner, Tech Enthusiast, and Community Builder** – dedicated to improving myself  
----
 
-<img align="right" alt="Coding" width="400" src="https://github.com/VishwajeetLondhe/VishwajeetLondhe/assets/126247101/3928c779-ca3a-4e88-a7b6-b243ad12f4e5">
-<br/>
+---
 
 <div align="left">
 <h1 align="left">Languages and Tools:</h1>
 
-<!-- FIX 1: Removed individual <a> wrappers so images flow horizontally -->
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="60" height="60"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="60" height="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="60" height="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="60" height="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="60"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="60" height="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="60" height="60"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="60" height="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="60" height="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="60" height="60"/>
-  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="60" height="60"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="60" height="60"/>
-</p>
+<table>
+  <tr>
+    <td>
+      <table>
+        <tr>
+          <td align="center" width="100"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60"/><br>HTML5</td>
+          <td align="center" width="100"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60"/><br>CSS3</td>
+          <td align="center" width="100"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="60" height="60"/><br>Tailwind</td>
+          <td align="center" width="100"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/><br>JavaScript</td>
+          <td align="center" width="100"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="60" height="60"/><br>React</td>
+          <td align="center" width="100"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="60" height="60"/><br>Node.js</td>
+        </tr>
+        <tr>
+          <td align="center" width="100"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="60" height="60"/><br>Express</td>
+          <td align="center" width="100"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt="dotnet" width="60" height="60"/><br>.NET</td>
+          <td align="center" width="100"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="60" height="60"/><br>TypeScript</td>
+          <td align="center" width="100"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/><br>Python</td>
+          <td align="center" width="100"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="60" height="60"/><br>Java</td>
+          <td align="center" width="100"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="60" height="60"/><br>PHP</td>
+        </tr>
+        <tr>
+          <td align="center" width="100"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="60" height="60"/><br>MongoDB</td>
+          <td align="center" width="100"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="60"/><br>MySQL</td>
+          <td align="center" width="100"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="60" height="60"/><br>PostgreSQL</td>
+          <td align="center" width="100"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="60" height="60"/><br>AWS</td>
+          <td align="center" width="100"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/><br>Git</td>
+          <td align="center" width="100"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="60" height="60"/><br>Docker/CI-CD</td>
+        </tr>
+        <tr>
+          <td align="center" width="100"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="60" height="60"/><br>TensorFlow</td>
+          <td align="center" width="100"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="60" height="60"/><br>PyTorch</td>
+          <td align="center" width="100"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="60" height="60"/><br>OpenCV</td>
+          <td align="center" width="100"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="sklearn" width="60" height="60"/><br>Scikit-Learn</td>
+          <td align="center" width="100"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="60" height="60"/><br>Pandas</td>
+          <td align="center" width="100"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="60" height="60"/><br>NumPy</td>
+        </tr>
+        <tr>
+          <td align="center" width="100"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="60" height="60"/><br>Jupyter</td>
+          <td align="center" width="100"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="60" height="60"/><br>Postman</td>
+          <td align="center" width="100"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="60" height="60"/><br>Next.js</td>
+          <td align="center" width="100"><img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" alt="langchain" width="60" height="60"/><br>LangChain</td>
+          <td align="center" width="100"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="huggingface" width="60" height="60"/><br>HuggingFace</td>
+          <td align="center" width="100"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="60" height="60"/><br>Linux</td>
+        </tr>
+      </table>
+    </td>
+    <td valign="top">
+      <img alt="Coding" width="380" src="https://github.com/VishwajeetLondhe/VishwajeetLondhe/assets/126247101/3928c779-ca3a-4e88-a7b6-b243ad12f4e5"/>
+    </td>
+  </tr>
+</table>
 
 </div>
 
 # My achievements
 
-<!-- FIX 2: Corrected username from VishwajeetLondhe to Vishwajeet-Londhe -->
 <img src="https://github-profile-trophy.vercel.app/?username=Vishwajeet-Londhe&row=2&column=7">
 
 # My GitHub Stats and Views
 
-<!-- FIX 3: Used a table to prevent stat cards from overlapping -->
 <div align="center">
   <table>
     <tr>
